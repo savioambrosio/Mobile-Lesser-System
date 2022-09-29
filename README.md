@@ -1,3 +1,3 @@
 # Sistema-Locadora-mobile
 
-Sistema para uma locadora de veiculo mobile, tanto para a empresa e para o cliente permitindo que ambos possam trabalhar em casa sem se locomover de um lugar para outro.
+System for a mobile car rental company, both for the company and for the customer, allowing both to work from home without moving from one place to another.
